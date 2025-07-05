@@ -1,0 +1,1 @@
+{'nb__alpha': 1.0, 'tfidf__max_df': 0.9, 'tfidf__ngram_range': (1, 2)}
